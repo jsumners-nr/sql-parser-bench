@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-stringify-safe": "^5.0.1",
+    "pino": "^9.6.0"
+  }
+}
